@@ -54,7 +54,7 @@ df6.to_csv(path_or_buf = r"C:\Users\Owner\Documents\FALL2020\GIS Programming\pro
 
 
 
-# top 1000 white
+# top 100 white
 df_white = df.sort_values(by = 'percent_white', ascending = False)
 df_white = df_white.query('percent_impaired != 1 & percent_impaired != 0')
 df_white = df_white.iloc[0:100, ]
