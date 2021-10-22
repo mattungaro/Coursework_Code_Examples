@@ -4,7 +4,8 @@ Created on Sat Nov 14 13:14:15 2020
 
 @author: Owner
 """
-
+# CLEANING AND ALTERING DATA FOR GIS PROGRAMMING PROJECT 
+# The goal is to create datasets for each demographic and visualize.
 import pandas as pd
 
 x = r"C:\Users\Owner\Documents\FALL2020\GIS Programming\programming_project\all_data.csv"
