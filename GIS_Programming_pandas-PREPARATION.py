@@ -46,7 +46,6 @@ df4.plot.scatter(x =  "median_income", y = "percent_not_impaired")
 
 df4.to_csv(path_or_buf = r"C:\Users\Owner\Documents\FALL2020\GIS Programming\programming_project\df4.csv", index=False)
 
-# will run linear regression in R
 
 df5 = df2.iloc[0:1000, ]
 df6 = df2.iloc[3170:4170, ]
