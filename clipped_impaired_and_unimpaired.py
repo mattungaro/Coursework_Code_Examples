@@ -4,7 +4,7 @@ Created on Sat Nov 14 10:21:52 2020
 
 @author: Owner
 """
-
+# Clip the impaired and unimpaired (but not necessarily restored) streams to the census designated block groups.
 
 import arcpy
 
