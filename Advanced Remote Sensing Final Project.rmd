@@ -1,3 +1,9 @@
+
+# ADVANCED REMOTE SENSING FINAL PROJECT - ANALYSIS
+
+# I studied the effects of restored and natural wetlands on surface temperature using remotely sensed Landsat imagery, finding that both types in Florida tended to reduce 
+# surface temperature at the same general rate. Here, I analyze my data.
+
 ---
 title: "577_means"
 author: "Matthew Ungaro"
