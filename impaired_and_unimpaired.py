@@ -4,7 +4,7 @@ Created on Tue Mar  9 08:18:46 2021
 
 @author: Owner
 """
-
+# split NC DEQ report of impaired and supporting streams into new datasets - one for impaired and one for unimpaired streams.
 
 import arcpy
 
