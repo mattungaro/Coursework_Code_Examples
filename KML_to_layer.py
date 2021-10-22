@@ -4,7 +4,7 @@ Created on Mon Mar  8 17:58:49 2021
 
 @author: Owner
 """
-
+# Modified my mitigation restored sites - changed them from the KML/KMZ Google Earth files to shapefiles.
 
 import arcpy
 
