@@ -1,4 +1,5 @@
 
+# Limited the census areas to areas with more than 5000 residents.
 
 import arcpy
 
@@ -8,4 +9,4 @@ arcpy.env.overwriteOutput = True
 
 arcpy.Select_analysis("buffered_everything.shp", "buffered_everything_5000.shp", '"estimat" >= 5000')
 
-# This successfully created a new file that had only tracts that have a population greater than 5,000 residents
+# This successfully created a new file that had only has census areas that have a population greater than 5,000 residents
