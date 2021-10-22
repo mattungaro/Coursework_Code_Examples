@@ -21,4 +21,3 @@ arcpy.Clip_analysis(impaired, buff, "clipped_impaired_polylines_block_group.shp"
 arcpy.Clip_analysis(unimpaired, buff, "clipped_unimpaired_polylines_block_group.shp")
 
 
-# now calculated the length of clipped polylines in QGIS....If I have time, I'll recalculate it here as well
